@@ -1,0 +1,38 @@
+[
+    {
+        "name": "joseenrique",
+        "id": 1000,
+        "home": "/home/joseenrique",
+        "shell": "/bin/bash"
+    },
+    {
+        "name": "gke-bf63ffdb0331a46ca322",
+        "id": 1001,
+        "home": "/home/gke-bf63ffdb0331a46ca322",
+        "shell": "/bin/bash"
+    },
+    {
+        "name": "gke-d79b761499bcbe02735d",
+        "id": 1002,
+        "home": "/home/gke-d79b761499bcbe02735d",
+        "shell": "/bin/bash"
+    },
+    {
+        "name": "gke-e8521edb378496b1cdb8",
+        "id": 1003,
+        "home": "/home/gke-e8521edb378496b1cdb8",
+        "shell": "/bin/bash"
+    },
+    {
+        "name": "gke-7fa76933507d0cecc2c5",
+        "id": 1004,
+        "home": "/home/gke-7fa76933507d0cecc2c5",
+        "shell": "/bin/bash"
+    },
+    {
+        "name": "gke-6631ba882e860c62c0d2",
+        "id": 1005,
+        "home": "/home/gke-6631ba882e860c62c0d2",
+        "shell": "/bin/bash"
+    }
+]
